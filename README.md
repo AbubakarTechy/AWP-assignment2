@@ -1,5 +1,3 @@
-README.md
-markdown# 🏙️ LocalService Finder — React SPA
 
 A Single Page Application built with React that allows users to browse, search, and manage local services like hospitals, restaurants, and parks.
 
