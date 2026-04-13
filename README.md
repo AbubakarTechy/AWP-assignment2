@@ -2,7 +2,7 @@
 A Single Page Application built with React that allows users to browse, search, and manage local services like hospitals, restaurants, and parks.
 
 ## 🚀 Tech Stack 
-
+ 
 - React (Vite)
 - React Router DOM
 - Context API
